@@ -14,7 +14,5 @@ You can click the Preview link to take a look at your changes.
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,django,dart,bootstrap,arduino,flask,flutter,github,graphql,go,julia,linux,materialui,mongodb,mysql,netlify,php,powershell,py,qt,raspberrypi,solidity,stackoverflow,tailwind,ts,tensorflow,vscode,bash,cs,codepen,dotnet,visualstudio" />
   </a>
-  <a href="!#">
-    <img src="https://github.com/mmmsss211/mmmsss211/raw/output/github-contribution-grid-snake.svg" alt= "snake" style="max-width: 100%;">
-  </a>
+ 
 </p>
