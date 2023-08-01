@@ -9,10 +9,15 @@
 johnxiler/johnxiler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-⚙️ Languages, Frameworks and tools
+⚙️ Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,django,dart,bootstrap,arduino,flask,flutter,github,graphql,go,julia,linux,materialui,mongodb,mysql,netlify,php,powershell,py,qt,raspberrypi,solidity,stackoverflow,tailwind,ts,tensorflow,vscode,bash,cs,codepen,dotnet,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=dart,go,julia,mysql,php,py,solidity,ts,bash,cs" />
   </a>
- 
+</p>
+⚙️ Frameworks and tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,arduino,flask,flutter,github,graphql,linux,materialui,mongodb,netlify,powershell,qt,raspberrypi,stackoverflow,tailwind,tensorflow,vscode,codepen,dotnet,visualstudio" />
+  </a>
 </p>
