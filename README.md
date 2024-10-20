@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @johnxiler
 - 👀 I’m interested in building some stuffs
-- 🌱 I’m currently learning python and their framework
+- 🌱 I build websites and mobile apps based on the requirements
 - 💞️ I’m looking to collaborate on other developer to build something
 - 📫 How to reach me: here's my facebook link: https://www.facebook.com/RelixJohn
   [![trophy](https://github-profile-trophy.vercel.app/?username=johnxiler&theme=onedark)](https://github.com/johnxiler/github-profile-trophy)
