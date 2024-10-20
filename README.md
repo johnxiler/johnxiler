@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @johnxiler
+- 👋 Hi, I’m john relix
 - 👀 I’m interested in building some stuffs
 - 🌱 I build websites and mobile apps based on the requirements
 - 💞️ I’m looking to collaborate on other developer to build something
