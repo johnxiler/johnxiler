@@ -18,6 +18,6 @@ You can click the Preview link to take a look at your changes.
 ⚙️ Frameworks and tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,replit,bootstrap,arduino,flask,sqlite,flutter,github,nodejs,unity,postgres,materialui,visualstudio,godot,wordpress,postman,powershell,graphql,linux,firebase,materialui,figma,mongodb,netlify,powershell,qt,raspberrypi,stackoverflow,tailwind,tensorflow,vscode,codepen,dotnet,solidity,visualstudio" />
+    <img src="https://skillicons.dev/icons?i=git,replit,bootstrap,arduino,flask,sqlite,flutter,github,nodejs,unity,postgres,materialui,visualstudio,godot,wordpress,postman,powershell,graphql,linux,firebase,materialui,figma,mongodb,netlify,powershell,qt,raspberrypi,stackoverflow,tailwind,tensorflow,vscode,codepen,dotnet,solidity,visualstudio,jetpack-compose,xml" />
   </a>
 </p>
