@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 ⚙️ Languages
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,java,js,dart,go,lua,julia,mysql,php,py,ts,bash,cs,css" />
+    <img src="https://skillicons.dev/icons?i=html,java,js,dart,go,lua,julia,mysql,php,py,ts,bash,cs,css,kotlin" />
   </a>
 </p>
 ⚙️ Frameworks and tools
