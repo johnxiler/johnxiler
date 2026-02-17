@@ -4,7 +4,6 @@
 - 💞️ I’m looking to collaborate on other developer to build something
 - 📫 How to reach me: here's my facebook link: https://www.facebook.com/JPxiler
 - 📫 How to reach me: here's my Linkedin: https://www.linkedin.com/in/johnrelixpascua/
-  [![trophy](https://github-profile-trophy.vercel.app/?username=johnxiler&theme=onedark)](https://github.com/johnxiler/github-profile-trophy)
 
 <!---
 johnxiler/johnxiler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
