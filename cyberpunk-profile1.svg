@@ -49,7 +49,7 @@ stroke-opacity="0.15"/>
 stroke="#00ffff"
 stroke-opacity="0.2"/>
 
-<!-- scanning beam -->
+<!-- animated scan sweep -->
 
 <rect x="-200" y="0" width="200" height="320"
 fill="url(#neonGradient)"
@@ -58,7 +58,7 @@ opacity="0.05">
 <animate attributeName="x"
 from="-200"
 to="900"
-dur="12s"
+dur="6s"
 repeatCount="indefinite"/>
 
 </rect>
@@ -123,7 +123,7 @@ repeatCount="indefinite"/>
 
 </rect>
 
-<!-- terminal boot loop -->
+<!-- terminal -->
 
 <text x="450"
 y="215"
@@ -136,10 +136,11 @@ opacity="0">
 > booting developer profile...
 
 <animate attributeName="opacity"
-values="0;1;1;0"
-keyTimes="0;0.1;0.3;0.4"
-dur="6s"
-repeatCount="indefinite"/>
+from="0"
+to="1"
+dur="0.4s"
+begin="0.5s"
+fill="freeze"/>
 
 </text>
 
@@ -154,10 +155,11 @@ opacity="0">
 > loading neural modules...
 
 <animate attributeName="opacity"
-values="0;0;1;1;0"
-keyTimes="0;0.2;0.3;0.5;0.6"
-dur="6s"
-repeatCount="freeze"/>
+from="0"
+to="1"
+dur="0.4s"
+begin="1s"
+fill="freeze"/>
 
 </text>
 
@@ -169,30 +171,25 @@ font-size="14"
 fill="#00ffcc"
 opacity="0">
 
-> systems ready
+> system ready
 
 <animate attributeName="opacity"
-values="0;0;0;1;1;0"
-keyTimes="0;0.4;0.5;0.6;0.8;1"
-dur="6s"
-repeatCount="freeze"/>
+from="0"
+to="1"
+dur="0.4s"
+begin="1.5s"
+fill="freeze"/>
 
 </text>
 
-<!-- animated data bars -->
+<!-- data bars -->
 
 <rect x="120" y="270" width="60" height="4" fill="#00ffff">
-<animate attributeName="width"
-values="40;80;40"
-dur="3s"
-repeatCount="indefinite"/>
+<animate attributeName="width" values="40;80;40" dur="3s" repeatCount="indefinite"/>
 </rect>
 
 <rect x="720" y="270" width="60" height="4" fill="#ff00ff">
-<animate attributeName="width"
-values="80;40;80"
-dur="3s"
-repeatCount="indefinite"/>
+<animate attributeName="width" values="80;40;80" dur="3s" repeatCount="indefinite"/>
 </rect>
 
 <!-- skills -->
@@ -203,9 +200,7 @@ text-anchor="middle"
 font-family="monospace"
 font-size="13"
 fill="#ffffff">
-
 HTML • JavaScript • TypeScript • Dart • Go • Python • PHP • Flutter • Node.js
-
 </text>
 
 </svg>
