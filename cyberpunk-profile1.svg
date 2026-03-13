@@ -54,6 +54,16 @@ filter="url(#glow)">
 JOHN RELIX PASCUA
 </text>
 
+<!-- sharp text -->
+<text x="450"
+y="90"
+text-anchor="middle"
+font-family="monospace"
+font-size="42"
+fill="url(#neonGradient)">
+JOHN RELIX PASCUA
+</text>
+
 <!-- subtitle -->
 
 <text x="450"
