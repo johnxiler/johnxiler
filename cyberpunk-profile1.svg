@@ -171,7 +171,7 @@ font-size="14"
 fill="#00ffcc"
 opacity="0">
 
-> system ready
+> systems ready
 
 <animate attributeName="opacity"
 from="0"
