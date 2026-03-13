@@ -14,7 +14,7 @@
 </linearGradient>
 
 <filter id="glow">
-<feGaussianBlur stdDeviation="2"/>
+<feGaussianBlur stdDeviation="1"/>
 </filter>
 
 <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
